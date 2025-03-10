@@ -1,0 +1,27 @@
+/* Ensure the page takes the full height */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Main content should expand to push the footer down */
+.content {
+    flex: 1;
+}
+
+/* Footer Styling */
+.footer {
+    background-color: rgb(35, 47, 62);
+    border-top: solid 1px #444141;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    width: 100%;
+    margin-top: 50px;
+    
+}
+.footerimg{
+    width: 100%;
+}
