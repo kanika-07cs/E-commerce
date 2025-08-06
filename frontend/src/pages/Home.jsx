@@ -14,7 +14,6 @@ function Home() {
                 <h1>Welcome to Amazon</h1>
                 <p> Not Just Shopping, But an<span className="italic">Experience!</span> Discover premium quality, unbeatable deals, 
                     and seamless service <br/> that keeps you coming back for more. Your perfect shopping destination—today, tomorrow, forever!</p>
-                    <br/>
                 <p>Your Ultimate Shopping Destination – Endless Choices, Unmatched Quality! Experience the future of online shopping with seamless service,<br/> 
                 premium products, and deals you can’t resist. We bring the <span className="italic">best</span> to your <span className="bold">doorstep!</span></p>
                 <p><span className="bold">One Click,</span> Endless Possibilities! Why settle for less when you can have the best? From trending products to timeless essentials,<br/>
